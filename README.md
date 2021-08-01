@@ -2,7 +2,7 @@
 - 👀 I’m interested in making the future cool
 - 🌱 I’m currently learning rudimentary Rust and Python
 - 💞️ I’m looking to collaborate blockchain applications
-- 📫 How to reach me rayden@gmail.com
+- 📫 How to reach me @rustyrayden on Twitter
 
 <!---
 rustyrayden/rustyrayden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
